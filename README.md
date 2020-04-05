@@ -1,4 +1,4 @@
-# Simple Web Application
+# Simple Docker Flask App
 
 ## TASK:
 
